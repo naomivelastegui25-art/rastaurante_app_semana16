@@ -1,0 +1,30 @@
+[
+    {
+        "id_producto": "1",
+        "nombre": "Guatita de abdala",
+        "precio": 5.0,
+        "categoria": "Plato",
+        "stock": 20
+    },
+    {
+        "id_producto": "2",
+        "nombre": "Coca cola de piña",
+        "precio": 2.0,
+        "categoria": "Bebida",
+        "stock": 30
+    },
+    {
+        "id_producto": "3",
+        "nombre": "Chaulafán especial",
+        "precio": 8.0,
+        "categoria": "Plato",
+        "stock": 14
+    },
+    {
+        "id_producto": "4",
+        "nombre": "Tallarín salteado",
+        "precio": 6.0,
+        "categoria": "Plato",
+        "stock": 24
+    }
+]

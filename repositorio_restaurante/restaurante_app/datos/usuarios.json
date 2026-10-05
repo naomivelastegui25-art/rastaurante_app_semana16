@@ -1,0 +1,32 @@
+[
+    {
+        "identificacion": "admin",
+        "nombre": "Administrador",
+        "contrasena": "admin123",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "001",
+        "nombre": "Naomi Velastegui",
+        "contrasena": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "002",
+        "nombre": "Carlos Perez",
+        "contrasena": "1234",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "123",
+        "nombre": "michel",
+        "contrasena": "admin1234",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "003",
+        "nombre": "leonardo david",
+        "contrasena": "123",
+        "rol": "Cliente"
+    }
+]
